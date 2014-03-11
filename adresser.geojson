@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {"name": "EPSG:4326"}
+  },
+  "features": [
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.5108572474172,
+      55.6983973831476
+    ]
+  },
+  "properties": {
+    "id": "0a3f50a0-73ca-32b8-e044-0003ba298018",
+    "href": "http://dawa.aws.dk/adresser/0a3f50a0-73ca-32b8-e044-0003ba298018",
+    "etage": null,
+    "dør": null,
+    "adressebetegnelse": "Rødkildevej 46\n2400 København NV",
+    "adgangsadresse": {
+      "href": "http://dawa.aws.dk/adgangsadresser/0a3f507a-ea2d-32b8-e044-0003ba298018",
+      "id": "0a3f507a-ea2d-32b8-e044-0003ba298018",
+      "vejstykke": {
+        "href": "http://dawa.aws.dk/vejstykker/6100",
+        "navn": "Rødkildevej",
+        "kode": "6100"
+      },
+      "husnr": "46",
+      "supplerendebynavn": null,
+      "postnummer": {
+        "href": "http://dawa.aws.dk/postnumre/2400",
+        "nr": "2400",
+        "navn": "København NV"
+      },
+      "kommune": {
+        "href": "http://dawa.aws.dk/kommuner/101",
+        "kode": "0101",
+        "navn": "København"
+      },
+      "ejerlav": {
+        "kode": 2000175,
+        "navn": "UTTERSLEV, KØBENHAVN"
+      },
+      "esrejendomsnr": "242358",
+      "matrikelnr": "663",
+      "historik": {
+        "oprettet": "2009-11-25T12:00:00+01:00",
+        "ikrafttrædelse": null,
+        "ændret": "2000-02-17T08:42:51+01:00"
+      },
+      "adgangspunkt": {
+        "koordinater": [
+          12.5108572474172,
+          55.6983973831476
+        ],
+        "nøjagtighed": "A",
+        "kilde": 5,
+        "tekniskstandard": "TD",
+        "tekstretning": 200,
+        "ændret": "Wed Nov 25 2009 01:07:37 GMT+0000 (UTC)"
+      },
+      "DDKN": {
+        "m100": "100m_61780_7206",
+        "km1": "1km_6178_720",
+        "km10": "10km_617_72"
+      },
+      "sogn": {
+        "href": "http://dawa.aws.dk/sogne/7060",
+        "kode": 7060,
+        "navn": "Grøndal"
+      },
+      "region": {
+        "href": "http://dawa.aws.dk/regioner/1084",
+        "kode": 1084,
+        "navn": "Region Hovedstaden"
+      },
+      "retskreds": {
+        "href": "http://dawa.aws.dk/retskredse/1102",
+        "kode": 1102,
+        "navn": "Retten på Frederiksberg"
+      },
+      "politikreds": {
+        "href": "http://dawa.aws.dk/politikredse/1470",
+        "kode": 1470,
+        "navn": "Københavns Politi"
+      },
+      "opstillingskreds": {
+        "href": "http://dawa.aws.dk/opstillingskredse/7",
+        "kode": 7,
+        "navn": "Brønshøj"
+      }
+    }
+  }
+}, {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0664376377987,
+      56.4725330856595
+    ]
+  },
+  "properties": {
+    "id": "16d19f5b-f2cb-16bd-e044-0003ba298018",
+    "href": "http://dawa.aws.dk/adresser/16d19f5b-f2cb-16bd-e044-0003ba298018",
+    "etage": null,
+    "dør": null,
+    "adressebetegnelse": "Rødkildevej 46\n8930 Randers NØ",
+    "adgangsadresse": {
+      "href": "http://dawa.aws.dk/adgangsadresser/16bed59f-a44b-1efc-e044-0003ba298018",
+      "id": "16bed59f-a44b-1efc-e044-0003ba298018",
+      "vejstykke": {
+        "href": "http://dawa.aws.dk/vejstykker/1721",
+        "navn": "Rødkildevej",
+        "kode": "1721"
+      },
+      "husnr": "46",
+      "supplerendebynavn": null,
+      "postnummer": {
+        "href": "http://dawa.aws.dk/postnumre/8930",
+        "nr": "8930",
+        "navn": "Randers NØ"
+      },
+      "kommune": {
+        "href": "http://dawa.aws.dk/kommuner/730",
+        "kode": "0730",
+        "navn": "Randers"
+      },
+      "ejerlav": {
+        "kode": 920351,
+        "navn": "BJELLERUP LADEGÅRD, DRONNINGBORG"
+      },
+      "esrejendomsnr": "019060",
+      "matrikelnr": "1br",
+      "historik": {
+        "oprettet": "2005-02-17T12:00:00+01:00",
+        "ikrafttrædelse": "Thu Feb 17 2005 12:00:00 GMT+0000 (UTC)",
+        "ændret": "2009-02-11T09:56:50+01:00"
+      },
+      "adgangspunkt": {
+        "koordinater": [
+          10.0664376377987,
+          56.4725330856595
+        ],
+        "nøjagtighed": "A",
+        "kilde": 5,
+        "tekniskstandard": "TN",
+        "tekstretning": 292.44,
+        "ændret": "Tue Nov 24 2009 03:15:25 GMT+0000 (UTC)"
+      },
+      "DDKN": {
+        "m100": "100m_62591_5656",
+        "km1": "1km_6259_565",
+        "km10": "10km_625_56"
+      },
+      "sogn": {
+        "href": "http://dawa.aws.dk/sogne/8184",
+        "kode": 8184,
+        "navn": "Dronningborg"
+      },
+      "region": {
+        "href": "http://dawa.aws.dk/regioner/1082",
+        "kode": 1082,
+        "navn": "Region Midtjylland"
+      },
+      "retskreds": {
+        "href": "http://dawa.aws.dk/retskredse/1169",
+        "kode": 1169,
+        "navn": "Retten i Randers"
+      },
+      "politikreds": {
+        "href": "http://dawa.aws.dk/politikredse/1461",
+        "kode": 1461,
+        "navn": "Østjyllands Politi"
+      },
+      "opstillingskreds": {
+        "href": "http://dawa.aws.dk/opstillingskredse/67",
+        "kode": 67,
+        "navn": "Randers Nord"
+      }
+    }
+  }
+}]
+}
